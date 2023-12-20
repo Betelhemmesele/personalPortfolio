@@ -33,7 +33,7 @@ export default function Contact() {
           onSubmit={handleSubmit}
           className="flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0"
         >
-          <input type="hidden" name="form-name" value="contact" />
+          <input type="hidden" name="contact" value="contact" />
           <h2 className="text-white sm:text-4xl text-3xl mb-1 font-medium title-font">
             Hire Me
           </h2>
