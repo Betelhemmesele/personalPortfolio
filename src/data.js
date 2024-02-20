@@ -32,4 +32,4 @@ export const projects = [
       link: "https://github.com/Betelhemmesele/flutter-movie-app/tree/master",
     },
   ];
-  export const skills = ["JavaScript", "React", "Node"];
+  export const skills = ["JavaScript", "React js", "Node js","Mongodb","Mysql","flutter","Tailwind css","Docker"];
