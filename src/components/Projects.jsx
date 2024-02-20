@@ -6,7 +6,7 @@ export default function Projects() {
   return (
     <section
       id="projects"
-      className="text-gray-400 bg-gray-900  top-14 bottom-0 left-0 w-screen h-screen bg-cover bg-center overflow-hidden body-font"
+      className="text-black bg-white  top-14 bottom-0 left-0 w-screen h-screen bg-cover bg-center overflow-hidden body-font"
     >
       <div className="container px-5 py-0 mx-auto text-center lg:px-40">
         <div className="flex flex-col w-full mb-20">
