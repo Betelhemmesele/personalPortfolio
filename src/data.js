@@ -3,33 +3,33 @@ export const projects = [
       title: "sabelaEstate",
       subtitle: "MERN Stack",
       description:
-        "introducing my real estate project, a powerful platform that offers a range of functionalities including advanced search capabilities, profile management, house posting, and robust authentication features",
+        "Introducing my real estate project, a powerful platform that offers a range of functionalities including advanced search capabilities, profile management, house posting, and robust authentication features",
       image: "https://img.freepik.com/free-photo/modern-residential-district-with-green-roof-balcony-generated-by-ai_188544-10276.jpg?size=626&ext=jpg&ga=GA1.2.919220695.1703776412&semt=ais",
       link: "https://github.com/Betelhemmesele/real-estate",
     },
     {
-      title: "React Tracks",
-      subtitle: "React and Python",
+      title: "React movie listing",
+      subtitle: "React",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "https://as1.ftcdn.net/v2/jpg/05/62/04/24/1000_F_562042487_WVEtC2ZjZox7xSmq63EsY08OVqxBMOS0.jpg",
-      link: "https://reedbarger.com",
+        "This app lists movies and their actors and uses api to fetch data.",
+      image: "https://github.com/Betelhemmesele/mereb-tech-intern-react-challenge/assets/88847580/3444ab35-c21d-4244-9ca2-1d09894c5a3d",
+      link: "https://github.com/Betelhemmesele/mereb-tech-intern-react-challenge/tree/master",
     },
     {
-      title: "DevChat",
-      subtitle: "React and Firebase",
+      title: "clinic management project",
+      subtitle: "Java",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "https://as1.ftcdn.net/v2/jpg/05/62/04/24/1000_F_562042487_WVEtC2ZjZox7xSmq63EsY08OVqxBMOS0.jpg",
-      link: "https://jsbootcamp.com",
+        "This project provides functionalities for clinic management and uses java programming language as frontend and backend.",
+      image: "https://www.shutterstock.com/image-vector/small-stores-shops-building-flat-260nw-1481524670.jpg",
+      link: "https://github.com/Betelhemmesele/my_java_project",
     },
     {
-      title: "Epic Todo App",
-      subtitle: "React Hooks",
+      title: "movie app",
+      subtitle: "flutter",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "https://as1.ftcdn.net/v2/jpg/05/62/04/24/1000_F_562042487_WVEtC2ZjZox7xSmq63EsY08OVqxBMOS0.jpg",
-      link: "https://pythonbootcamp.com",
+        "This app uses flutter and uses api to fetch data , basically lists and filters new and old movies and have good user interface.",
+      image: "https://icon-library.com/images/movie-app-icon/movie-app-icon-14.jpg",
+      link: "https://github.com/Betelhemmesele/flutter-movie-app/tree/master",
     },
   ];
   export const skills = ["JavaScript", "React", "Node"];
