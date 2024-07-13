@@ -1,4 +1,12 @@
 export const projects = [
+  {
+    title: "HRM system for mekedoniya",
+    subtitle: "Next js ,mongodb, nodejs and express js",
+    description:
+      "The HRM project for Mekedonia is a comprehensive system that automates and streamlines various HR processes for organizations the key features includes Attendance System,Job Recruitment,User Management,Event Management,payment integration and reporting and analytics",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbccqXlHvE4KQKu_c_9ghiVpXxNY3i3WfaIQ&s",
+    link: "https://user-site-production.up.railway.app/",
+  },
     {
       title: "sabelaEstate",
       subtitle: "MERN Stack",
@@ -6,6 +14,14 @@ export const projects = [
         "Introducing my real estate project, a powerful platform that offers a range of functionalities including advanced search capabilities, profile management, house posting, and robust authentication features",
       image: "https://img.freepik.com/free-photo/modern-residential-district-with-green-roof-balcony-generated-by-ai_188544-10276.jpg?size=626&ext=jpg&ga=GA1.2.919220695.1703776412&semt=ais",
       link: "https://github.com/Betelhemmesele/real-estate",
+    },
+    {
+      title: "Blog posting web app",
+      subtitle: "MERN stack",
+      description:
+        "This app uses MERN stack , basically create ,update, delete and read blog posts, authenticate users and can create ,update delete and read comments of each posts.",
+      image: "https://cdn.pixabay.com/photo/2014/02/13/07/28/wordpress-265132_1280.jpg",
+      link: "https://github.com/Betelhemmesele/afronex-task-1",
     },
     {
       title: "React movie listing",
@@ -31,5 +47,9 @@ export const projects = [
       image: "https://icon-library.com/images/movie-app-icon/movie-app-icon-14.jpg",
       link: "https://github.com/Betelhemmesele/flutter-movie-app/tree/master",
     },
+    
+    
+    
   ];
-  export const skills = ["JavaScript", "React js", "Node js","Mongodb","Mysql","flutter","Tailwind css","Docker"];
+  export const skills = ["JavaScript", "React js", "Node js","Mongodb","Express js","Mysql",
+    "flutter","Tailwind css","Docker","next js","postgres","c++","java"];

@@ -2,11 +2,6 @@
 import React from "react";
 
 export default function Contact() {
-  // const [name, setName] = React.useState("");
-  // const [email, setEmail] = React.useState("");
-  // const [message, setMessage] = React.useState("");
-
-  
 
   function handleSubmit(e) {
     e.preventDefault();
@@ -36,8 +31,9 @@ export default function Contact() {
             Hire Me
           </h2>
           <p className="leading-relaxed text-white mb-5">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum
-            suscipit officia aspernatur veritatis. Asperiores, aliquid?
+          I'm always excited to connect with new people and explore potential opportunities.
+          Whether you'd like to discuss a project, ask a question, or just say hello, 
+          feel free to reach out using the methods below.
           </p>
           <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-gray-400">
