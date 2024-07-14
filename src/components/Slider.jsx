@@ -25,7 +25,7 @@ const Slider = () => {
             caption: 'Certificate of seven weeks intership program at seven tech'
         },
         {
-            src: 'https://drive.google.com/file/d/1Vd7kDjzwTY5G042mArvj1Cnl9ru5ckfp/view?usp=drive_link',
+            src: 'https://postimg.cc/Wdwb0xRh',
             caption: 'Certificate of learning online course of flutter and dart'
         }
     ];

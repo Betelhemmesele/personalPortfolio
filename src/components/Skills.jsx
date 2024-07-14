@@ -35,9 +35,9 @@ export default function Skills() {
             The certification i have received ...
           </p>
         </div>
-        <div>
+        {/* <div>
         <Slider />
-      </div>
+      </div> */}
       </div>
     </section>
   );
