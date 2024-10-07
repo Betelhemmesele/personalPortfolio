@@ -5,7 +5,7 @@ export const projects = [
     description:
       "The HRM project for Mekedonia is a comprehensive system that automates and streamlines various HR processes for organizations the key features includes Attendance System,Job Recruitment,User Management,Event Management,payment integration and reporting and analytics",
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbccqXlHvE4KQKu_c_9ghiVpXxNY3i3WfaIQ&s",
-    link: "https://user-site-production.up.railway.app/",
+    link: "https://github.com/codeAvengers5/user-site",
   },
     {
       title: "sabelaEstate",
