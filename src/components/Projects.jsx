@@ -6,9 +6,9 @@ export default function Projects() {
   return (
     <section
   id="projects"
-  className="text-black bg-white top-14 bottom-0 left-0 w-screen h-screen bg-cover bg-center overflow-hidden body-font"
+  className="text-black bg-white top-14 bottom-0 md:mb-7  mb-10 left-0 w-screen h-screen bg-cover bg-center overflow-hidden body-font"
 >
-  <div className="container px-5 py-0 mx-auto text-center lg:px-40 h-full">
+  <div className="container px-5 py-0 mx-auto text-center  md:mb-7  mb-10  lg:px-40 h-full">
     <div className="flex flex-col w-full mb-20">
       <CodeIcon className="mx-auto inline-block w-10 mb-4" />
       <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-white">
@@ -20,7 +20,7 @@ export default function Projects() {
         my skills, creativity, and problem-solving abilities.
       </p>
     </div>
-    <div className="flex flex-wrap -m-4 py-4 h-3/4 overflow-y-auto">
+    <div className="flex flex-wrap -m-4  md:py-4 pb-32 h-3/4 overflow-y-auto">
       {projects.map((project) => (
         <a
           href={project.link}
